@@ -29,7 +29,7 @@ My long-term vision is to specialize in three interconnected domains:
 
 ### 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedEmad00700&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoEmad007Dev&show_icons=true&theme=radical)
 
 ---
 
