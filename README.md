@@ -8,7 +8,7 @@ Student strengthening my programming fundamentals and logical thinking through *
 - Pursue a master's degree in South Korea 🇰🇷
 
 ## 📚 Currently Learning
-- **CS50x 2026** (Week 3), programming in **C**
+- **CS50x 2026** (Week 4 , memory), programming in **C**
 - Working on **Debian 13 (GNOME)**
 - Git & GitHub, step by step
 
